@@ -37,4 +37,5 @@ Bu proje [aslisilaozates](https://github.com/aslisilaozates) tarafından gelişt
 ## Lisans
 
 
-MIT License 
+
+
