@@ -34,7 +34,7 @@ Bu uygulama, kişisel finanslarınızı takip etmenizi sağlayan Python tabanlı
 
 Bu proje [aslisilaozates](https://github.com/aslisilaozates) tarafından geliştirilmiştir.
 
-## Lisans
+
 
 
 
